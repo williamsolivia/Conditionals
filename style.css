@@ -1,0 +1,21 @@
+body {
+	background-size: 2000px 1000px;
+	margin: 20px 20px 20px 20px;
+	text-align: center;
+	background-repeat: no-repeat;
+}
+img {
+	height:300px; 
+	width:300px;
+}
+button {
+	margin: 10px;
+	background-color: #AC33FF; /* green */
+	border-radius: 20px;
+	color: white;
+	border: none;
+}
+h1, p {
+	color: purple;
+	font-size: 72px;
+}
